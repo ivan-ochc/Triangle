@@ -1,5 +1,4 @@
-It is an application that returns 6 numbers that describe 3 corners of right angled triangle in the Cartesian coordinate system. There is one method that returns right triangle.
-This application contains some Junit tests. These Junit tests were created according to the test task. These tests check whether the triangle is right.
+It is an application that returns 6 numbers that describe 3 corners of right angled triangle in the Cartesian coordinate system. It contains a method to create a right angled triangle and some built-in Junit tests, built to check whether triangle is right angled. The tests were created according to a test task.
 
 You can use following values to test application:
 
