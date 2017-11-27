@@ -2,7 +2,7 @@ It is an application that returns 6 numbers that describe 3 corners of right ang
 
 You can use following values to test application:
 
-1)x1=0,y1=0,x2=3,y2=3,x3=3,y3=0; 
+1)x1=0,y1=0,x2=3,y2=3,x3=3,y3=0;
 Expected result: tests should successfully pass, triangle is right.
 
 2)x1=0,y1=0,x2=3,y2=3,x3=0,y3=0;
