@@ -9,4 +9,4 @@ Expected result: tests should successfully pass, triangle is right.
 Expected result: tests should fail, this geometrical figure isn't triangle at all.
 
 3)x1=0,y1=0,x2=3,y2=3,x3=4,y3=0;  
-Expected result: tests should fail, triangle isn't right
+Expected result: tests should fail, triangle isn't right.
